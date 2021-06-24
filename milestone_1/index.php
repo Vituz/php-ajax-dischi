@@ -46,7 +46,6 @@ require __DIR__ . '/database/db.php';
     </main>
     </div>
 
-
 </body>
 
 </html>
